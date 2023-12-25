@@ -31,6 +31,9 @@ body{
     h2{
       text-align: center;
     }
+	.player_one{
+		background-color: rgb(255, 255, 255);
+	}
     video{
       width: 100%;
     }
